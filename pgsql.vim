@@ -1,7 +1,6 @@
 " Vim syntax file
 " Language:     pgsql
 " Maintainer:   Devrim Gündüz <devrim@PostgreSQL.org>
-" Last Change:  $Date: 2012/03/11 21:43:23 $
 " Filenames:    *.pgsql *.plpgsql
 " URL:		http://www.github.com/devrimgunduz/pgsql.vim
 " Note:		The definitions below are for PostgreSQL 15, some versions may differ.
